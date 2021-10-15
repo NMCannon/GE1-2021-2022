@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: fc8a32d6a90d179459f9339e04075750
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - aiTank2: {fileID: 3957178962631494629, guid: 24d18d65d7f02734688aa842a27fb2b3,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
